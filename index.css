@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+nav {
+    background-color: darksalmon;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+}
